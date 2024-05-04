@@ -1,0 +1,84 @@
+.bgLayout {
+  /* Background Integrations */
+
+  position: relative;
+  overflow: hidden;
+  width: 1555px;
+  height: 1090px;
+  left: -8%;
+  /* top: 10%; */
+  /* background-color: rgb(228, 184, 176); */
+  z-index: -10;
+}
+
+.Bg_01 {
+  /* Bg */
+
+  position: absolute;
+  left: 5.73%;
+  right: 0.42%;
+  top: 0%;
+  bottom: 0%;
+  /* background-color: sandybrown; */
+  /* z-index: -1; */
+}
+
+.Bg_02 {
+  /* Bg */
+
+  position: absolute;
+  left: 2.53%;
+  right: -109.99%;
+  height: 900px;
+  top: 0%;
+  bottom: 0%;
+  z-index: -1;
+  transform: rotate(-6deg);
+
+  background: linear-gradient(84.12deg, #1b45b4 2.94%, #1c2792 96.29%);
+}
+
+.rectangle_51 {
+  position: absolute;
+  left: -0.89%;
+  right: 85.71%;
+  top: 84.58%;
+  bottom: 8.8%;
+  background: #0097fe;
+  opacity: 0.5;
+  transform: rotate(-8.69deg);
+}
+
+.group {
+  position: absolute;
+  left: -12.11%;
+  right: -10%;
+  top: 16.44%;
+  bottom: 57.85%;
+  transform: rotate(-7.42deg);
+  /* background-color: seagreen; */
+}
+
+.rectangle_52 {
+  box-sizing: border-box;
+  position: absolute;
+  left: 40.7%;
+  right: 17.5%;
+  top: 15.19%;
+  bottom: 38.85%;
+  opacity: 0.5;
+  border: 1px solid #66c1ff;
+  transform: rotate(1.42deg);
+}
+
+.rectangle_53 {
+  position: absolute;
+  left: 82.71%;
+  right: 0.42%;
+  top: -3.92%;
+  bottom: 83.35%;
+
+  /* Blue/Blue */
+  background: #0097fe;
+  transform: rotate(1.42deg);
+}
